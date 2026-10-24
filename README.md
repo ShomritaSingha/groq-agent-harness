@@ -6,9 +6,15 @@ This project includes an interactive Streamlit chat app and a series of Python e
 
 ## Try the assistant
 
-**Hosted demo:** A public demo URL has not been added yet. You can run the chat app locally using the quick start below.
+<p align="center">
+  <a href="https://groq-agent-harnesssimplebot.streamlit.app/">
+    <img src="assets/demo-arrow.gif" width="64" height="56" alt="Jumping arrow pointing to the live chatbot">
+  </a>
+  <br>
+  <strong><a href="https://groq-agent-harnesssimplebot.streamlit.app/">🚀 TRY THE LIVE CHATBOT</a></strong>
+</p>
 
-<!-- After deploying, replace the status above with: [Open the live demo](YOUR_STREAMLIT_APP_URL). -->
+**[Open the interactive demo →](https://groq-agent-harnesssimplebot.streamlit.app/)** — chat directly in your browser. No installation or API key needed.
 
 Once the app is open:
 
